@@ -2,7 +2,7 @@ package cn.itcast.day08.JUnit;/**
  * @author key
  */
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * @Description 单元测试
